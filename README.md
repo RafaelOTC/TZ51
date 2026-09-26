@@ -1,67 +1,160 @@
+<div align="center">
+
 # TZ51
 
-**Tech Zone 51**  
-**Tagline:** *Classified tech. Declassified daily.*
+### Tech Zone 51
 
-**Status:** In Development  
-**Portfolio:** https://trifarafael.com/projects/tz51-tech-intelligence  
-**Creator / Developer:** [Trifa Rafael](https://trifarafael.com)
+## *Classified tech. Declassified daily.*
 
-TZ51 is a global English-language **technology news and intelligence product** being built around an AI-operated newsroom model.
+[![Status](https://img.shields.io/badge/status-In%20Development-f59e0b?style=for-the-badge)](https://trifarafael.com/projects/tz51-tech-intelligence)
+[![Market](https://img.shields.io/badge/market-Global-2563eb?style=for-the-badge)](https://trifarafael.com/projects/tz51-tech-intelligence)
+[![Language](https://img.shields.io/badge/language-English-111827?style=for-the-badge)](https://trifarafael.com/projects/tz51-tech-intelligence)
 
-The goal is not to create another generic technology news website. TZ51 is designed to become a fast, structured and useful reference point for technology news, context and intelligence.
+**Built by [Trifa Rafael](https://trifarafael.com)**
 
-## Editorial areas
-
-TZ51 is being built around several core areas:
-
-- **News**
-  - Official
-  - Breaking
-- **Leaks**
-- **AI**
-  - major AI labs, models and platforms
-- **Devices**
-  - phones
-  - laptops
-  - hardware
-- **Companies**
-  - Apple
-  - NVIDIA
-  - AMD
-  - HP
-  - and other major technology companies
-- **Guides**
-- contextual / explanatory technology coverage
-
-## Product direction
-
-The project focuses on:
-
-- fast technology coverage
-- source verification
-- clear separation between official information, reporting and leaks
-- original context instead of simple aggregation
-- strong SEO and GEO foundations
-- machine-readable structure for search engines and AI systems
-- a high-density technology-intelligence visual identity
-- global relevance, especially for US, UK, Canada and Europe
-
-## Current stage
-
-TZ51 is in **active development**.
-
-## Public links
-
-- Portfolio page: https://trifarafael.com/projects/tz51-tech-intelligence
-- Creator: https://trifarafael.com
-- GitHub profile: https://github.com/RafaelOTC
+</div>
 
 ---
 
-### About this repository
+## Overview
 
-This is a **public showcase repository** for TZ51.  
-The production source code, editorial automation, internal workflows, prompts, infrastructure configuration and private implementation details are **not published here**.
+**TZ51 — Tech Zone 51** is a global English-language **technology news and intelligence product** being developed around an AI-operated newsroom model.
 
-© Trifa Rafael
+The goal is not to build another generic tech-news feed.
+
+TZ51 is being designed as a fast, structured and credible technology reference product — something that can combine breaking information, source verification, context and a distinctive intelligence-style presentation.
+
+## Editorial mission
+
+TZ51 is built around one question:
+
+> **How do you make technology news faster without making it noisier or less trustworthy?**
+
+The product direction combines automation with structured verification and clear editorial labeling.
+
+## Coverage areas
+
+### News
+- official announcements
+- breaking developments
+- major product and company updates
+
+### Leaks
+- clearly separated from confirmed reporting
+- source-aware presentation
+- context around reliability and significance
+
+### AI
+- major AI labs
+- frontier models
+- platforms and developer ecosystems
+- product releases and industry shifts
+
+### Devices
+- smartphones
+- laptops
+- PC hardware
+- consumer technology
+
+### Companies
+Coverage around major technology companies such as:
+
+- Apple
+- NVIDIA
+- AMD
+- HP
+- Google
+- OpenAI
+- and other relevant global players
+
+### Guides & context
+- explainers
+- comparisons
+- technical context
+- practical guides
+
+## AI-operated newsroom concept
+
+TZ51 is being designed so AI can assist with parts of the newsroom workflow such as:
+
+```text
+source discovery
+      ↓
+data / fact extraction
+      ↓
+cross-checking
+      ↓
+story classification
+      ↓
+draft / structure
+      ↓
+verification layer
+      ↓
+publishable editorial output
+```
+
+The direction is **automation with traceability**, not blind auto-posting.
+
+## Product principles
+
+### 1. Source-first
+Stories should point back to verifiable information wherever possible.
+
+### 2. Clear information states
+Official information, reporting, rumors and leaks should not be blended together.
+
+### 3. Context over repetition
+The aim is to explain why a development matters, not simply rewrite what another publication said.
+
+### 4. Search + AI discoverability
+TZ51 is being built with both traditional SEO and **GEO / AI discoverability** in mind.
+
+### 5. Global by default
+The target audience is global, with particular relevance for:
+
+- United States
+- United Kingdom
+- Canada
+- Europe
+
+## Visual direction
+
+TZ51 uses a darker, intelligence-inspired editorial identity rather than a generic blog aesthetic.
+
+The intended feeling is closer to:
+
+**newsroom + terminal + classified intelligence**, while remaining readable and modern.
+
+## Current status
+
+| Item | Status |
+| --- | --- |
+| Product | **In Development** |
+| Language | English |
+| Audience | Global |
+| Newsroom automation | Active development |
+| SEO / GEO foundation | Planned / active development |
+| Source code | Private |
+
+## Public presence
+
+- **Portfolio:** https://trifarafael.com/projects/tz51-tech-intelligence
+- **Creator:** https://trifarafael.com
+- **GitHub:** https://github.com/RafaelOTC
+
+---
+
+## Repository notice
+
+This is the **public showcase repository for TZ51**.
+
+Production source code, internal newsroom automation, prompts, infrastructure, editorial tooling and private implementation details are not published here.
+
+<div align="center">
+
+**TZ51 — Tech Zone 51**  
+*Classified tech. Declassified daily.*
+
+Built by **[Trifa Rafael](https://trifarafael.com)**
+
+</div>
