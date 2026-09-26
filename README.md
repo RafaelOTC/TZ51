@@ -144,6 +144,16 @@ The intended feeling is closer to:
 
 ---
 
+## Commercial / proprietary product
+
+TZ51 is being built as a **commercial proprietary technology-media product**.
+
+The public repository documents the editorial concept, product direction and AI-operated newsroom model, while the production implementation remains private.
+
+The source code, newsroom automation, source-ingestion logic, ranking/classification systems, prompts, editorial workflows, infrastructure and other commercially sensitive implementation details are intentionally not published in order to protect the product's intellectual property and operational model.
+
+This repository should therefore be read as a **public product and technical showcase**, not as an open-source distribution of TZ51.
+
 ## Creator & socials
 
 **Trifa Rafael** — Web Developer & Digital Product Builder
@@ -158,7 +168,7 @@ The intended feeling is closer to:
 
 This is the **public showcase repository for TZ51**.
 
-Production source code, internal newsroom automation, prompts, infrastructure, editorial tooling and private implementation details are not published here.
+Production source code, internal newsroom automation, prompts, infrastructure, editorial tooling and private implementation details are intentionally not published here because they are proprietary product IP.
 
 <div align="center">
 
