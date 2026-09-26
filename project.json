@@ -1,0 +1,15 @@
+{
+  "name": "TZ51",
+  "expanded_name": "Tech Zone 51",
+  "tagline": "Classified tech. Declassified daily.",
+  "status": "In Development",
+  "type": "Technology news & intelligence",
+  "creator": {
+    "name": "Trifa Rafael",
+    "website": "https://trifarafael.com",
+    "github": "https://github.com/RafaelOTC"
+  },
+  "portfolio_url": "https://trifarafael.com/projects/tz51-tech-intelligence",
+  "source_code_public": false,
+  "summary": "Global English-language technology news and intelligence product being built as an AI-operated newsroom."
+}
